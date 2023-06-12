@@ -5,7 +5,7 @@
   "author": "Saurav Hathi",
   "description": "Resume Builder UI is a web application Frontend built with Next.js, ReactJS, TypeScript, Tailwind CSS.",
   "license": "MIT",
-  "homepage": "https://resume-builder-ui.vercel.app/",
+  "homepage": "https://resume-builder-ui-lake.vercel.app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
