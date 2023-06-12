@@ -24,6 +24,7 @@ Resume Builder UI is a web application Frontend built with Next.js, ReactJS, Typ
 - [x] [Figma](<https://www.figma.com/file/1YOIFX8XrGTHwZYXrP0MWj/Resume-Builder-(Wireframe)?type=design&node-id=89-971&t=VPiBl7hVK3A1fl4q-0>)
 
 ## Demo
+### https://resume-builder-ui-lake.vercel.app/
 
 ## Screenshots
 
